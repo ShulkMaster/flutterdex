@@ -19,7 +19,7 @@ class MyApp extends StatelessWidget {
           // or simply save your changes to "hot reload" in a Flutter IDE).
           // Notice that the counter didn't reset back to zero; the application
           // is not restarted.
-          primarySwatch: Colors.red),
+          primarySwatch: Colors.blue),
       home: MyHomePage('Pokedex FTR'),
     );
   }
@@ -79,7 +79,7 @@ class MyHomePage extends StatelessWidget {
             ],
           ),
         ),
-        backgroundColor: Colors.red[800],
+        backgroundColor: Colors.white,
       ),
     );
   }

@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import '../http/requestor.dart';
-import '../templates/Pokemon.dart';
-import '../views/PokemonCard.dart';
+import 'package:floaps/http/requestor.dart';
+import 'package:floaps/templates/Pokemon.dart';
+import 'package:floaps/views/PokemonCard.dart';
 
 class Monitor extends StatefulWidget {
   @override
